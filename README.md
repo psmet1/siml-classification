@@ -1,5 +1,5 @@
 # Simulating predictions of classification models - Code for experiments
-This repository contains the code to reproduce the computational experiments reported in the paper: ___Simulating predictions of classification models to evaluate predict-then-optimize methods___.
+This repository contains the code to reproduce the computational experiments reported in the paper: ___Simulating classification models to evaluate predict-then-optimize methods___.
 
 ## Overview
 
@@ -20,4 +20,6 @@ To run the code, you will need the following Python packages:
 - numpy
 
 ## Citation
-If you use this code in your research, please cite the paper accordingly.
+If you use this code in your research, please cite the following paper:
+> Smet, P. (2025).
+> Simulating classification models to evaluate Predict-Then-Optimize methods.
